@@ -1,10 +1,13 @@
 import React from 'react'
 
-import { ExampleComponent } from '@kikapay/kika-components-react'
+import { ExampleComponent, Checkbox } from '@kikapay/kika-components-react'
 import '@kikapay/kika-components-react/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Kika component library" />
+  return <div> 
+    <Checkbox />
+    <ExampleComponent text="Create React Library Example 😄" />
+  </div>
 }
 
 export default App

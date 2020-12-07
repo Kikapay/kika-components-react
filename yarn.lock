@@ -1420,10 +1420,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@kikapay/kika-components-react@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@kikapay/kika-components-react/-/kika-components-react-0.0.5.tgz#1c9a26bc4812cd895be3721b12bedffb37f90ff6"
-  integrity sha512-siY0XfZIkQr+X14b8DhcdDuVg1i9l+qRW7I1qVNZwpdFq8pAQ6DLQtXzSzT5olFTS41D4G0qgdO4TwedKQwT8w==
+"@kikapay/kika-components-react@^0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@kikapay/kika-components-react/-/kika-components-react-0.0.10.tgz#7afb274fec8af1ec568d835022646a5729545774"
+  integrity sha512-+4OGaSJxOhEAl4EVewOMeetXFJ/7w7SRXxmXO4kwC3pomq11QExlYZpxj13KdbGJs5F7V2uZkQt5SmCtQsQXnQ==
   dependencies:
     styled-components "5.1.1"
 

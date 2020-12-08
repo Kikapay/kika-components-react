@@ -1,10 +1,10 @@
 export const infoBoxData = [
     {
-        key: 'Refund Amount',
+        key: 'Amount',
         value: 25,
     },
     {
         key: 'From',
-        value: 'Next Energy',
+        value: 'Kikapay',
     },
 ];

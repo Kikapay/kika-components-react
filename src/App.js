@@ -11,6 +11,7 @@ import {
   BankListHeader,
   BankList,
   BankListFooter,
+  KikaLoader,
 } from '@kikapay/kika-components-react'
 import '@kikapay/kika-components-react/dist/index.css'
 
@@ -66,6 +67,11 @@ const App = () => {
     <BankListFooter
       consentText={bankListFooter.consentText}
     />
+
+    <div style={{ backgroundColor: "#d3d3d3" }}>
+      <h2>KikaLoader</h2>
+    </div>
+    <KikaLoader />
   </div>
 }
 
